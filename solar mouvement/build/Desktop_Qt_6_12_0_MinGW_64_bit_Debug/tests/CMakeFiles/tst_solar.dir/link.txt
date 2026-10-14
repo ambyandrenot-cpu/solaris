@@ -1,0 +1,3 @@
+D:\logiciel\qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\tst_solar.dir/objects.a
+D:\logiciel\qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\tst_solar.dir/objects.a @CMakeFiles\tst_solar.dir\objects1.rsp
+D:\logiciel\qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\tst_solar.dir/objects.a -Wl,--no-whole-archive -o tst_solar.exe -Wl,--out-implib,libtst_solar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tst_solar.dir\linkLibs.rsp

@@ -1,0 +1,655 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "a",
+                            "line": 5,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 81,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 6,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 214,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 6,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 7,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 8,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 115,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 8,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 142,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 8,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 64,
+                            "durationMicroseconds": 0,
+                            "functionName": "opacity",
+                            "line": 10,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 54,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 11,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 75,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 126,
+                            "durationMicroseconds": 0,
+                            "functionName": "opacity",
+                            "line": 11,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 185,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 11,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 216,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 11,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "top",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 12,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 87,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 13,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 213,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "top",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "right",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 50,
+                            "durationMicroseconds": 0,
+                            "functionName": "top",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 98,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 206,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 321,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 14,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 394,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 14,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 464,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 14,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 543,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 14,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 77,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 16,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 81,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 16,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 79,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 17,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 99,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 113,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 147,
+                            "durationMicroseconds": 0,
+                            "functionName": "opacity",
+                            "line": 17,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 65,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 56,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 18,
+                            "message": "Cannot access value for name solar"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 102,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 116,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 21,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 74,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 21,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 105,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 21,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 171,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 240,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 21,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 259,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 21,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 341,
+                            "durationMicroseconds": 0,
+                            "functionName": "to",
+                            "line": 21,
+                            "message": "Cannot access value for name parent"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 368,
+                            "durationMicroseconds": 0,
+                            "functionName": "duration",
+                            "line": 21,
+                            "message": "Cannot access value for name index"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 392,
+                            "durationMicroseconds": 0,
+                            "functionName": "loops",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 68,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 111,
+                            "durationMicroseconds": 3000,
+                            "functionName": "onPaint",
+                            "line": 23,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 23,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 68,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 108,
+                            "durationMicroseconds": 3000,
+                            "functionName": "onPaint",
+                            "line": 24,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 64,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 137,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 214,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 25,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 261,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 314,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 362,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 412,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 461,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 511,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 562,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 25,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 646,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 25,
+                            "message": "Could not find property \"value\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 692,
+                            "durationMicroseconds": 0,
+                            "functionName": "onMoved",
+                            "line": 25,
+                            "message": "Could not find signal \"moved\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 726,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 25,
+                            "message": "Could not find property \"text\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 102,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 26,
+                            "message": "Could not find property \"value\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 150,
+                            "durationMicroseconds": 0,
+                            "functionName": "onMoved",
+                            "line": 26,
+                            "message": "Could not find signal \"moved\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 83,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 27,
+                            "message": "Could not find property \"value\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 114,
+                            "durationMicroseconds": 0,
+                            "functionName": "onValueModified",
+                            "line": 27,
+                            "message": "Could not find signal \"valueModified\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 209,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 27,
+                            "message": "Could not find property \"value\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 241,
+                            "durationMicroseconds": 0,
+                            "functionName": "onValueModified",
+                            "line": 27,
+                            "message": "Could not find signal \"valueModified\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 279,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 27,
+                            "message": "Could not find property \"text\"."
+                        }
+                    ],
+                    "filePath": "D:/c_plus/solar mouvement/solar mouvement/qml/Main.qml"
+                }
+            ],
+            "moduleId": "Solaris(SOLARIS)"
+        }
+    ]
+}

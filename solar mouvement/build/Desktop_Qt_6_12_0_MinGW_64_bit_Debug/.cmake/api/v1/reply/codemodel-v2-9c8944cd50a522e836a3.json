@@ -1,0 +1,286 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Debug-70e4927a02b591d5c1f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "SOLARIS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS-Debug-36c20e71b8b560c66003.json",
+					"name" : "SOLARIS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_autogen-Debug-417755bd103c5cf500f6.json",
+					"name" : "SOLARIS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_autogen_timestamp_deps-Debug-de0b603987bfcf300606.json",
+					"name" : "SOLARIS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_copy_qml-Debug-bcd47a116594590c0a7e.json",
+					"name" : "SOLARIS_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_copy_res-Debug-5c17d85d5d602a24aa5a.json",
+					"name" : "SOLARIS_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_qmlimportscan-Debug-41007d524cefd8a48860.json",
+					"name" : "SOLARIS_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_qmllint-Debug-1663e0cff27cd7f8d8a9.json",
+					"name" : "SOLARIS_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_qmllint_json-Debug-74e79df9fb8134ad64b6.json",
+					"name" : "SOLARIS_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_qmllint_module-Debug-186f3b5fa57ac708d8e9.json",
+					"name" : "SOLARIS_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_qmlpreview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_qmlpreview-Debug-b4bfa65bf826ce5fd483.json",
+					"name" : "SOLARIS_qmlpreview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SOLARIS_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SOLARIS_qmltyperegistration-Debug-4b7b2a030a6b6135d006.json",
+					"name" : "SOLARIS_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-d80267a2f2dce71860f5.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7b02d641d11b5120bbd5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-c406c002baa364e6ab46.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-5cd6cb5f935ffd30c538.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-67cc33bce73d694e4bec.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-4690d1f73699c76210a7.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-d3c236f626bd5f269ed9.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_finalqtconf_SOLARIS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_finalqtconf_SOLARIS-Debug-9b4f86943f614107ea4e.json",
+					"name" : "generate_finalqtconf_SOLARIS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-8449157f1f27d258cc8c.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_SOLARIS_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_SOLARIS_aotstats_target-Debug-470a45796d4a391613ed.json",
+					"name" : "module_SOLARIS_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tst_solar::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-tst_solar-Debug-2e4459d56af0efd0fe5a.json",
+					"name" : "tst_solar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tst_solar_autogen::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-tst_solar_autogen-Debug-a772a0275d62986b5ed1.json",
+					"name" : "tst_solar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tst_solar_autogen_timestamp_deps::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-tst_solar_autogen_timestamp_deps-Debug-c4954a79e07971cdc32f.json",
+					"name" : "tst_solar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/c_plus/solar mouvement/solar mouvement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

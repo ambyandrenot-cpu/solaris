@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Solaris/">
+    <file alias="qml/Main.qml">D:/c_plus/solar mouvement/solar mouvement/qml/Main.qml</file>
+  </qresource>
+</RCC>
+

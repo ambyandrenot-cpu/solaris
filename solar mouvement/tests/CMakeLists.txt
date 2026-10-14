@@ -1,0 +1,6 @@
+qt_add_executable(tst_solar tst_Solar.cpp ../src/core/SolarCalculator.cpp ../src/core/SolarCalculator.h ../src/core/SimulationClock.cpp ../src/core/SimulationClock.h)
+qt_wrap_cpp(TEST_MOC ../src/core/SimulationClock.h)
+target_sources(tst_solar PRIVATE ${TEST_MOC})
+target_include_directories(tst_solar PRIVATE ../src)
+target_link_libraries(tst_solar PRIVATE Qt6::Core Qt6::Test)
+add_test(NAME tst_solar COMMAND tst_solar)

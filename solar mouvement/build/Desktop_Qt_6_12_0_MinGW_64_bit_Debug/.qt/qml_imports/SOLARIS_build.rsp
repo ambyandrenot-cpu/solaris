@@ -1,0 +1,14 @@
+-rootPath
+D:/c_plus/solar mouvement/solar mouvement
+-cmake-output
+-output-file
+D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/SOLARIS_build.cmake
+-importPath
+D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+-importPath
+D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/Solaris
+-importPath
+D:/logiciel/qt/6.12.0/mingw_64/qml
+-qrcFiles
+D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qmake_Solaris.qrc
+D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/SOLARIS_raw_qml_0.qrc

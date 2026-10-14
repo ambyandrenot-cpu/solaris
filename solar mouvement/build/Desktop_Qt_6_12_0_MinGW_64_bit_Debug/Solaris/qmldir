@@ -1,0 +1,6 @@
+module Solaris
+typeinfo SOLARIS.qmltypes
+prefer :/Solaris/
+Main 1.0 qml/Main.qml
+depends QtQuick
+

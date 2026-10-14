@@ -1,0 +1,7 @@
+set(__QT_DEPLOY_TARGETS "tst_solar;SOLARIS")
+set(__QT_DEPLOY_TARGET_tst_solar_FILE D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar.exe)
+set(__QT_DEPLOY_TARGET_tst_solar_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_tst_solar_RUNTIME_DLLS D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6Test.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_SOLARIS_FILE D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/SOLARIS.exe)
+set(__QT_DEPLOY_TARGET_SOLARIS_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_SOLARIS_RUNTIME_DLLS D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6QuickControls2.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6QuickTemplates2.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6Quick.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6OpenGL.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6Gui.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6QmlMeta.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6QmlWorkerScript.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6QmlModels.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6Qml.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6Network.dll;D:/logiciel/qt/6.12.0/mingw_64/bin/Qt6Core.dll)

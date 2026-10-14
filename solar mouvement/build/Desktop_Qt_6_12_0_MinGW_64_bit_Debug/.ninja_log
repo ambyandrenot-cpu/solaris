@@ -1,0 +1,170 @@
+# ninja log v7
+21	62	8136216201327184	.qt/SOLARIS_qml.txt	fa5b33c7ceb6568
+12	61	8136202348618128	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/SOLARIS_qml.txt	f93632450f079223
+29	86	8136208501687269	.qt/SOLARIS_res.txt	7092bca589aee108
+14	62	8136202348618128	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/SOLARIS_res.txt	73745bbc3ca446ef
+32	229	8136208503144997	.qt/.qmlls.build.ini	5fbdb2292830ed5
+16	220	8136202350227061	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/.qmlls.build.ini	b9f0cd89fce66ce
+17	223	8136216202885234	.qt/qml_imports/SOLARIS_build.cmake	1f937bdae23b1937
+9	321	8136202351028385	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/qml_imports/SOLARIS_build.cmake	13286e7de1d7bcc8
+224	268	8136216203379962	.qt/qtconfs/SOLARIS_qt.part.conf	a29baf6bd2fedf9e
+321	385	8136202351864433	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/qtconfs/SOLARIS_qt.part.conf	8b3ba4e20f25ce1
+268	343	8136216204109093	.qt/qtconf_list.done	4c00e524f4b50d03
+385	466	8136202352661043	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/qtconf_list.done	cc6d2f2264a22ebe
+15	162	8136211712107783	SOLARIS_autogen/timestamp	63eeb63d460a0d53
+15	162	8136211712107783	SOLARIS_autogen/mocs_compilation.cpp	63eeb63d460a0d53
+467	648	8136202353913018	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/SOLARIS_autogen/timestamp	35fdc8d24e6c2db6
+467	648	8136202353913018	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/SOLARIS_autogen/mocs_compilation.cpp	35fdc8d24e6c2db6
+640	727	8136208508100810	.qt/rcc/qrc_qmake_Solaris.cpp	de56b29592bbc25a
+655	736	8136202355368371	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/rcc/qrc_qmake_Solaris.cpp	70e16fbb1d932de4
+345	404	8136216204740659	.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp	617fac267ceae517
+659	739	8136202355378464	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp	9b709c502dc6c7ee
+163	196	8136211713584414	meta_types/SOLARIS_json_file_list.txt	3a1ca66173c07a4
+163	196	8136211713584414	meta_types/SOLARIS_json_file_list.txt.timestamp	3a1ca66173c07a4
+652	768	8136202355716263	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/SOLARIS_json_file_list.txt	832ae257e9226967
+652	768	8136202355716263	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/SOLARIS_json_file_list.txt.timestamp	832ae257e9226967
+643	834	8136208508249252	.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp	d5d4aa92db757d81
+657	808	8136202355585011	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp	9aea83fd0fb23e21
+689	785	8136208507849353	meta_types/qt6solaris_metatypes.json.gen	274a0575afe068ac
+689	785	8136208507849353	meta_types/qt6solaris_metatypes.json	274a0575afe068ac
+768	835	8136202356382794	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/qt6solaris_metatypes.json.gen	819d8ab2ad86784
+768	835	8136202356382794	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/qt6solaris_metatypes.json	819d8ab2ad86784
+785	1086	8136208510352774	solaris_qmltyperegistrations.cpp	3e2c3c0b40431643
+785	1086	8136208510352774	Solaris/SOLARIS.qmltypes	3e2c3c0b40431643
+835	1044	8136202357465052	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/solaris_qmltyperegistrations.cpp	689403620704f584
+835	1044	8136202357465052	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/Solaris/SOLARIS.qmltypes	689403620704f584
+28	169	8136208814920969	tests/tst_solar_autogen/timestamp	fa3be79678ba2569
+28	169	8136208814920969	tests/tst_solar_autogen/mocs_compilation.cpp	fa3be79678ba2569
+18	1127	8136202358757960	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/tests/tst_solar_autogen/timestamp	e59c95d05764d5e8
+18	1127	8136202358757960	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/tests/tst_solar_autogen/mocs_compilation.cpp	e59c95d05764d5e8
+1512	1604	8136208516069872	tests/CMakeFiles/tst_solar.dir/tst_solar_autogen/mocs_compilation.cpp.obj	546829b33f15d0f6
+343	1165	8136216212240407	.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp	3bb33616578bd685
+343	1165	8136216212240407	.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.aotstats	3bb33616578bd685
+1045	1354	8136202361429497	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp	31969085ec93a605
+1045	1354	8136202361429497	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.aotstats	31969085ec93a605
+1521	1614	8136208516165821	CMakeFiles/SOLARIS.dir/SOLARIS_autogen/mocs_compilation.cpp.obj	88d552448fab025a
+1375	1566	8136202361853334	CMakeFiles/SOLARIS.dir/.qt/rcc/qrc_qmake_Solaris.cpp.obj	ff18a8899587562c
+1461	1679	8136202362708305	CMakeFiles/SOLARIS.dir/.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp.obj	375a1f7ab24c2565
+13209	16813	8136208633044924	tests/CMakeFiles/tst_solar.dir/__/src/core/SimulationClock.cpp.obj	1a7763d9f1a19c
+1518	5441	8136208516135684	tests/CMakeFiles/tst_solar.dir/__/src/core/SolarCalculator.cpp.obj	3851c3ce64fe9274
+9161	13107	8136208592568846	CMakeFiles/SOLARIS.dir/src/services/SettingsManager.cpp.obj	d6a620bbb3a43381
+1614	5669	8136208517090642	CMakeFiles/SOLARIS.dir/src/core/SolarCalculator.cpp.obj	b2de2b1a0efae57
+5669	9228	8136208557645971	CMakeFiles/SOLARIS.dir/src/core/Sun.cpp.obj	a80f170830b2e44
+5441	9161	8136208555364140	CMakeFiles/SOLARIS.dir/src/core/SimulationClock.cpp.obj	b5b03a5b99b77d9a
+197	2611	8136211713922096	CMakeFiles/SOLARIS.dir/src/core/SolarSystemController.cpp.obj	6e774fab237152fb
+9228	14086	8136208593234230	CMakeFiles/SOLARIS.dir/solaris_qmltyperegistrations.cpp.obj	9a685632ced123ef
+1379	9398	8136202361888878	CMakeFiles/SOLARIS.dir/.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp.obj	b890a4d00d9ddf11
+1063	5684	8136211600749280	CMakeFiles/SOLARIS.dir/src/main.cpp.obj	8e2b4510cdd2e76b
+1382	9724	8136202361918891	CMakeFiles/SOLARIS.dir/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.obj	9a4d997e30a2185c
+1515	10366	8136208516100459	tests/CMakeFiles/tst_solar.dir/tst_Solar.cpp.obj	7f862861ee1a7961
+21	62	8136216201327184	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/SOLARIS_qml.txt	fa5b33c7ceb6568
+29	86	8136208501687269	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/SOLARIS_res.txt	7092bca589aee108
+32	229	8136208503144997	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/.qmlls.build.ini	5fbdb2292830ed5
+17	223	8136216202885234	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qml_imports/SOLARIS_build.cmake	1f937bdae23b1937
+224	268	8136216203379962	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qtconfs/SOLARIS_qt.part.conf	a29baf6bd2fedf9e
+268	343	8136216204109093	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/qtconf_list.done	4c00e524f4b50d03
+15	162	8136211712107783	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/SOLARIS_autogen/timestamp	63eeb63d460a0d53
+15	162	8136211712107783	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/SOLARIS_autogen/mocs_compilation.cpp	63eeb63d460a0d53
+163	196	8136211713584414	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/meta_types/SOLARIS_json_file_list.txt	3a1ca66173c07a4
+163	196	8136211713584414	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/meta_types/SOLARIS_json_file_list.txt.timestamp	3a1ca66173c07a4
+640	727	8136208508100810	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Solaris.cpp	de56b29592bbc25a
+689	785	8136208507849353	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/meta_types/qt6solaris_metatypes.json.gen	274a0575afe068ac
+689	785	8136208507849353	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/meta_types/qt6solaris_metatypes.json	274a0575afe068ac
+643	834	8136208508249252	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp	d5d4aa92db757d81
+345	404	8136216204740659	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp	617fac267ceae517
+785	1086	8136208510352774	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/solaris_qmltyperegistrations.cpp	3e2c3c0b40431643
+785	1086	8136208510352774	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/Solaris/SOLARIS.qmltypes	3e2c3c0b40431643
+28	169	8136208814920969	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar_autogen/timestamp	fa3be79678ba2569
+28	169	8136208814920969	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar_autogen/mocs_compilation.cpp	fa3be79678ba2569
+343	1165	8136216212240407	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp	3bb33616578bd685
+343	1165	8136216212240407	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.aotstats	3bb33616578bd685
+10366	10490	8136208604618609	CMakeFiles/SOLARIS.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Solaris.cpp.obj	26158aa1bb1b4152
+1167	1310	8136216212443662	CMakeFiles/SOLARIS.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp.obj	a8c2ba791458d0b6
+10468	16150	8136208605619282	CMakeFiles/SOLARIS.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp.obj	6235ac0115880bb
+1165	5663	8136216212416210	CMakeFiles/SOLARIS.dir/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.obj	ae17837be33373b1
+170	213	8136208816699115	tests/__/src/core/moc_SimulationClock.cpp	f609143ca6676440
+170	213	8136208816699115	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/__/src/core/moc_SimulationClock.cpp	f609143ca6676440
+178	223	8136208816791351	src/core/moc_SimulationClock.cpp	44d8c4cca65bb57e
+178	223	8136208816791351	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/src/core/moc_SimulationClock.cpp	44d8c4cca65bb57e
+181	228	8136208816831466	src/core/moc_Sun.cpp	7f89244eb83ef8d5
+181	228	8136208816831466	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/src/core/moc_Sun.cpp	7f89244eb83ef8d5
+426	467	8136211594707872	src/core/moc_SolarSystemController.cpp	eb544badf2977d23
+426	467	8136211594707872	E:/Projets/C++/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/src/core/moc_SolarSystemController.cpp	eb544badf2977d23
+220	5086	8136208816842256	tests/CMakeFiles/tst_solar.dir/__/src/core/moc_SimulationClock.cpp.obj	80dfecf9643b7aef
+257	5178	8136208817208471	CMakeFiles/SOLARIS.dir/src/core/moc_SimulationClock.cpp.obj	4a52179ededf195c
+259	5279	8136208817233537	CMakeFiles/SOLARIS.dir/src/core/moc_Sun.cpp.obj	12b9db06d0140336
+1068	5252	8136211600799567	CMakeFiles/SOLARIS.dir/src/core/moc_SolarSystemController.cpp.obj	ee609c44aea38789
+5087	5428	8136208865509169	tests/tst_solar.exe	48ad7d517f4aa543
+5663	7195	8136216257408116	SOLARIS.exe	a887f43f2cde6572
+17	75	8136228138709384	.qt/SOLARIS_qml.txt	f93632450f079223
+17	75	8136228138709384	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/SOLARIS_qml.txt	f93632450f079223
+20	76	8136228138739441	.qt/SOLARIS_res.txt	73745bbc3ca446ef
+20	76	8136228138739441	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/SOLARIS_res.txt	73745bbc3ca446ef
+22	242	8136228140384081	.qt/.qmlls.build.ini	b9f0cd89fce66ce
+22	242	8136228140384081	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/.qmlls.build.ini	b9f0cd89fce66ce
+14	341	8136228141367292	.qt/qml_imports/SOLARIS_build.cmake	13286e7de1d7bcc8
+14	341	8136228141367292	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/qml_imports/SOLARIS_build.cmake	13286e7de1d7bcc8
+341	397	8136228141964282	.qt/qtconfs/SOLARIS_qt.part.conf	8b3ba4e20f25ce1
+341	397	8136228141964282	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/qtconfs/SOLARIS_qt.part.conf	8b3ba4e20f25ce1
+398	473	8136228142719670	.qt/qtconf_list.done	cc6d2f2264a22ebe
+398	473	8136228142719670	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/qtconf_list.done	cc6d2f2264a22ebe
+473	676	8136228142804836	SOLARIS_autogen/timestamp	35fdc8d24e6c2db6
+473	676	8136228142804836	SOLARIS_autogen/mocs_compilation.cpp	35fdc8d24e6c2db6
+473	676	8136228142804836	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/SOLARIS_autogen/timestamp	35fdc8d24e6c2db6
+473	676	8136228142804836	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/SOLARIS_autogen/mocs_compilation.cpp	35fdc8d24e6c2db6
+679	737	8136228145320102	src/core/moc_SimulationClock.cpp	a9a0ea40d654f085
+679	737	8136228145320102	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/src/core/moc_SimulationClock.cpp	a9a0ea40d654f085
+677	739	8136228144843571	meta_types/SOLARIS_json_file_list.txt	832ae257e9226967
+677	739	8136228144843571	meta_types/SOLARIS_json_file_list.txt.timestamp	832ae257e9226967
+677	739	8136228144843571	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/SOLARIS_json_file_list.txt	832ae257e9226967
+677	739	8136228144843571	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/SOLARIS_json_file_list.txt.timestamp	832ae257e9226967
+684	748	8136228145450515	src/core/moc_SolarSystemController.cpp	ade073025f35c4c2
+684	748	8136228145450515	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/src/core/moc_SolarSystemController.cpp	ade073025f35c4c2
+681	749	8136228145450515	src/core/moc_Sun.cpp	5d8f7b87b8e03f8e
+681	749	8136228145450515	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/src/core/moc_Sun.cpp	5d8f7b87b8e03f8e
+686	797	8136228145930028	.qt/rcc/qrc_qmake_Solaris.cpp	70e16fbb1d932de4
+686	797	8136228145930028	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/rcc/qrc_qmake_Solaris.cpp	70e16fbb1d932de4
+693	798	8136228145940039	.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp	9b709c502dc6c7ee
+693	798	8136228145940039	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp	9b709c502dc6c7ee
+740	820	8136228145465603	meta_types/qt6solaris_metatypes.json.gen	819d8ab2ad86784
+740	820	8136228145465603	meta_types/qt6solaris_metatypes.json	819d8ab2ad86784
+740	820	8136228145465603	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/qt6solaris_metatypes.json.gen	819d8ab2ad86784
+740	820	8136228145465603	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/meta_types/qt6solaris_metatypes.json	819d8ab2ad86784
+689	1227	8136228146106153	.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp	9aea83fd0fb23e21
+689	1227	8136228146106153	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp	9aea83fd0fb23e21
+24	1278	8136228138313137	tests/tst_solar_autogen/timestamp	e59c95d05764d5e8
+24	1278	8136228138313137	tests/tst_solar_autogen/mocs_compilation.cpp	e59c95d05764d5e8
+24	1278	8136228138313137	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/tests/tst_solar_autogen/timestamp	e59c95d05764d5e8
+24	1278	8136228138313137	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/tests/tst_solar_autogen/mocs_compilation.cpp	e59c95d05764d5e8
+1279	1327	8136228151257789	tests/__/src/core/moc_SimulationClock.cpp	43f38259531c075d
+1279	1327	8136228151257789	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/tests/__/src/core/moc_SimulationClock.cpp	43f38259531c075d
+820	1434	8136228150435199	solaris_qmltyperegistrations.cpp	689403620704f584
+820	1434	8136228150435199	Solaris/SOLARIS.qmltypes	689403620704f584
+820	1434	8136228150435199	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/solaris_qmltyperegistrations.cpp	689403620704f584
+820	1434	8136228150435199	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/Solaris/SOLARIS.qmltypes	689403620704f584
+1327	1505	8136228151348103	tests/CMakeFiles/tst_solar.dir/tst_solar_autogen/mocs_compilation.cpp.obj	547cdf2011e1c23a
+1435	1841	8136228156221946	.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp	31969085ec93a605
+1435	1841	8136228156221946	.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.aotstats	31969085ec93a605
+1435	1841	8136228156221946	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp	31969085ec93a605
+1435	1841	8136228156221946	C:/ProgramData/QtCreator/Links/b233e3e6f5cbf4eb71589333efd29c3c/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.aotstats	31969085ec93a605
+1842	1985	8136228156489948	CMakeFiles/SOLARIS.dir/SOLARIS_autogen/mocs_compilation.cpp.obj	993b96aee54ce828
+1333	6379	8136228151418665	tests/CMakeFiles/tst_solar.dir/__/src/core/SolarCalculator.cpp.obj	4460376ac032e23e
+1337	6592	8136228151448683	tests/CMakeFiles/tst_solar.dir/__/src/core/SimulationClock.cpp.obj	2e3f019bc3f76eff
+1340	6822	8136228151483875	tests/CMakeFiles/tst_solar.dir/__/src/core/moc_SimulationClock.cpp.obj	3727692017b73361
+6453	7090	8136228202607796	CMakeFiles/SOLARIS.dir/.qt/rcc/qrc_qmake_Solaris.cpp.obj	ff18a8899587562c
+1858	7277	8136228156655407	CMakeFiles/SOLARIS.dir/src/services/SettingsManager.cpp.obj	83e832f5618927d0
+1852	7413	8136228156595371	CMakeFiles/SOLARIS.dir/src/core/Sun.cpp.obj	ffc306c2bfef21d4
+7098	7638	8136228209424332	CMakeFiles/SOLARIS.dir/.qt/rcc/qrc_SOLARIS_raw_qml_0.cpp.obj	375a1f7ab24c2565
+1849	7697	8136228156565119	CMakeFiles/SOLARIS.dir/src/core/SimulationClock.cpp.obj	c8b8b8adcfa0e8c2
+1855	8090	8136228156625377	CMakeFiles/SOLARIS.dir/src/core/SolarSystemController.cpp.obj	9aee57744a479f09
+1844	9023	8136228156509962	CMakeFiles/SOLARIS.dir/src/main.cpp.obj	6e8d2e87ca3d3971
+1865	9094	8136228156720719	CMakeFiles/SOLARIS.dir/src/core/moc_Sun.cpp.obj	77ab0366e53ce716
+1846	9550	8136228156539976	CMakeFiles/SOLARIS.dir/src/core/SolarCalculator.cpp.obj	9874a21fc09e9326
+1861	9753	8136228156690740	CMakeFiles/SOLARIS.dir/src/core/moc_SimulationClock.cpp.obj	d2093ea69da4dcf
+1985	9840	8136228157925888	CMakeFiles/SOLARIS.dir/solaris_qmltyperegistrations.cpp.obj	4b70cdcad2174029
+1869	9929	8136228156765880	CMakeFiles/SOLARIS.dir/src/core/moc_SolarSystemController.cpp.obj	87b3ef7a822b602
+6593	12940	8136228203998506	CMakeFiles/SOLARIS.dir/.rcc/qmlcache/SOLARIS_qmlcache_loader.cpp.obj	b890a4d00d9ddf11
+1330	13382	8136228151378655	tests/CMakeFiles/tst_solar.dir/tst_Solar.cpp.obj	10dbc194b8be9a47
+13382	13676	8136228271896021	tests/tst_solar.exe	48ad7d517f4aa543
+6847	14283	8136228206535880	CMakeFiles/SOLARIS.dir/.rcc/qmlcache/SOLARIS_qml_Main_qml.cpp.obj	9a4d997e30a2185c
+14283	15812	8136228280903523	SOLARIS.exe	f17ad293d20a995f

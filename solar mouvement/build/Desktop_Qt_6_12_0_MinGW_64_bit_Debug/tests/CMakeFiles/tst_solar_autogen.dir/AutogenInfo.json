@@ -1,0 +1,120 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar_autogen",
+	"CMAKE_BINARY_DIR" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/c_plus/solar mouvement/solar mouvement/tests",
+	"CMAKE_EXECUTABLE" : "D:/logiciel/qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/c_plus/solar mouvement/solar mouvement/tests/CMakeLists.txt",
+		"D:/logiciel/qt/6.12.0/mingw_64/lib/cmake/Qt6/windows/app.exe.manifest.in"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/c_plus/solar mouvement/solar mouvement",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "tst_solar_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/c_plus/solar mouvement/solar mouvement/src/core/SolarCalculator.h",
+			"Mu",
+			"MV7IEL3DTJ/moc_SolarCalculator.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_QML_DEBUG",
+		"QT_TESTCASE_BUILDDIR=\"D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests\"",
+		"QT_TESTCASE_SOURCEDIR=\"D:/c_plus/solar mouvement/solar mouvement/tests\"",
+		"QT_TESTLIB_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/c_plus/solar mouvement/solar mouvement/src",
+		"D:/logiciel/qt/6.12.0/mingw_64/include/QtCore",
+		"D:/logiciel/qt/6.12.0/mingw_64/include",
+		"D:/logiciel/qt/6.12.0/mingw_64/mkspecs/win32-g++",
+		"D:/logiciel/qt/6.12.0/mingw_64/include/QtTest",
+		"D:/logiciel/qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"D:/logiciel/qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"D:/logiciel/qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"D:/logiciel/qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"D:/logiciel/qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"D:/logiciel/qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "-DWIN32" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/logiciel/qt/Tools/mingw1310_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/logiciel/qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/tst_solar_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/__/src/core/moc_SimulationClock.cpp",
+		"D:/c_plus/solar mouvement/solar mouvement/src/core/SimulationClock.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/CMakeFiles/tst_solar_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/logiciel/qt/6.12.0/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "D:/c_plus/solar mouvement/solar mouvement/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/tests/CMakeFiles/tst_solar_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/c_plus/solar mouvement/solar mouvement/src/core/SimulationClock.cpp",
+			"Mu",
+			null
+		],
+		[
+			"D:/c_plus/solar mouvement/solar mouvement/src/core/SolarCalculator.cpp",
+			"Mu",
+			null
+		],
+		[
+			"D:/c_plus/solar mouvement/solar mouvement/tests/tst_Solar.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
